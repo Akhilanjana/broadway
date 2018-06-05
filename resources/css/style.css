@@ -1,0 +1,46 @@
+body{
+	text-align: center;
+}
+.Design{
+	background-image: url("./images/the-flatiron-building.jpg");
+}
+.BroadwayDesign{
+	font-family: Helvetica;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+.menu{
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	text-decoration: underline;
+	text-decoration-color: white;
+}
+.Process{
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+}
+.Identify{
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bold;
+}
+.subidentify{
+	font-family: Helvetica;
+	font-size: 14px;
+}
+.DesignInNY{
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+}
+.menus{
+	font-family: Helvetica;
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+	text-align: left;
+}
